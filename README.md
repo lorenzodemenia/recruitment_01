@@ -38,4 +38,5 @@ dimensioni.
 è obbligatorio l’utilizzo di una repository Github, che vi verrà fornita.
 Ricordatevi che dall’analisi dei dati bisogna trarre anche delle conclusioni strategiche ed economiche
 per il business.
+
 [DataGruppo1.csv](https://github.com/lorenzodemenia/recruitment_01/files/11266528/DataGruppo1.csv)
